@@ -1,0 +1,9 @@
+{
+  "name": "Node 20 WhatsApp Bot",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
